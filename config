@@ -1,3 +1,4 @@
 #!/bin/bash
 
 export PACKAGE_CORE_VERSION=v1.2.4
+export PACKAGE_CORE_GIT_REPOSITORY="https://github.com/go-zoox/gzfly"
